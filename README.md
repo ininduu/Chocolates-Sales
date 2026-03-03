@@ -76,7 +76,7 @@ Targeted social media campaigns may help expand the customer base, including you
 - Python
 - Pandas
 - NumPy
-- Matplotlib / Seaborn
+- Power BI
 - Jupyter Notebook
 
 ---
